@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <conio.h>
 
 int main()
 {
@@ -16,6 +15,5 @@ int main()
     printf("\nHasil Pengurangan   : %d" ,KU);
     printf("\nHasil Perkalian.        : %d" ,KA);
     printf("\nHasil Pembagian.      : %d" ,BA);
-    getch();
     return 0;
 }
